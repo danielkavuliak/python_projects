@@ -1,0 +1,39 @@
+<link href="/static/css/statistics.css" rel="stylesheet">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Celkove statistiky pre COVID v CR</h1>
+<p>
+    <a href="/">Spat</a>
+</p>
+
+<h3>Statistiky pre nakazenych</h3>
+{% for table in tables %}
+         {{ table|safe }}
+{% endfor %}
+
+<h3>Statistiky pre kraje</h3>
+
+{% for table2 in tables2 %}
+            {{ table2|safe }}
+{% endfor %}
+<h3>Zakladne statistiky zomreli</h3>
+
+{% for table3 in tables3 %}
+            {{ table3|safe }}
+{% endfor %}
+
+<h3>Zakladne statistiky pre vyliecenych</h3>
+{% for table4 in tables4 %}
+            {{ table4|safe }}
+{% endfor %}
+<img src="/static/images/my_plot_vyvoj_celkovy.png" class="resize">
+<img src="/static/images/my_plot_vylieceni_celkovy.png" class="center">
+<img src="/static/images/my_plot_zastupenie_celkovy.png" class="center">
+<h3>Nazvy krajov pre jednotlive kody</h3>
+{% for table5 in tables5 %}
+            {{ table5|safe }}
+{% endfor %}
+</body>

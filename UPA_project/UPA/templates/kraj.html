@@ -1,0 +1,21 @@
+<link href="/static/css/statistics.css" rel="stylesheet">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+<h1>Štatistiky pre kraj {{ kraj_nazov }}</h1>
+<H4> Kód kraja: {{kod}}</H4>
+
+{% for table in tables %}
+            {{ table|safe }}
+{% endfor %}
+
+<img src="/static/images/my_plot_osoby_{{kod}}.png">
+<img src="/static/images/my_plot_osoby_pohl_{{kod}}.png">
+<img src="/static/images/my_plot_vylieceni_{{kod}}.png">
+<img src="/static/images/my_plot_zomreli_{{kod}}.png">
+<img src="/static/images/my_plot_vyvoj_{{kod}}.png" class="resize">
+
+</body>

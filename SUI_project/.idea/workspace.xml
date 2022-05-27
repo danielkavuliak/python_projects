@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="922e3723-d4c9-4fd0-b424-aad504852cfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lYf0q97J8qBUv9uFY5CgyOoeP4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dicewars/ai" />
+      <recent name="$PROJECT_DIR$/dicewars/ai/dt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.template">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dicewars/ai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicewars/ai/template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.template" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.template" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="922e3723-d4c9-4fd0-b424-aad504852cfa" name="Default Changelist" comment="" />
+      <created>1607778724562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607778724562</updated>
+      <workItem from="1607778735241" duration="13762000" />
+      <workItem from="1607811939534" duration="1672000" />
+      <workItem from="1607813700565" duration="2032000" />
+      <workItem from="1607863087372" duration="1487000" />
+      <workItem from="1607864864915" duration="1041000" />
+      <workItem from="1607866310549" duration="5200000" />
+      <workItem from="1607936148094" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="96" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607814187550">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="202" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1607814187550" />
+    <state x="202" y="96" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1607813127890" />
+    <state x="202" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1607811572730" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1607866855997">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1607866855997" />
+    <state width="1334" height="199" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1607813667895" />
+    <state width="1354" height="199" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1607811828277" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1607864860711" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1607866855996">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1607866855996" />
+    <state width="1334" height="199" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1607813667895" />
+    <state width="1354" height="199" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1607811828277" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1607864860710" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1607866855996">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1607866855996" />
+    <state width="1334" height="199" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1607813667895" />
+    <state width="1354" height="199" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1607811828276" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1607864860709" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1607866855997">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1607866855997" />
+    <state width="1334" height="199" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1607813667895" />
+    <state width="1354" height="199" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1607811828277" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1607864860710" />
+    <state x="221" y="75" key="SettingsEditor" timestamp="1607867373226">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="221" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1607867373226" />
+    <state x="415" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1607866342003">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="415" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1607866342003" />
+    <state x="415" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1607778743330" />
+    <state x="415" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1607863087682" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/dicewars-ai-only.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SUI$test.coverage" NAME="test Coverage Results" MODIFIED="1607810207480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/SUI$template.coverage" NAME="template Coverage Results" MODIFIED="1607866346152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dicewars/ai" />
+  </component>
+</project>
